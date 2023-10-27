@@ -1,0 +1,1 @@
+I changed card to idea from website, https://www.w3schools.com/howto/howto_css_blog_layout.asp
